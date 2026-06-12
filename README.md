@@ -1,2 +1,2 @@
 # PyQtWeather
-A modern weather application built with Python and PyQt5 that provides real-time weather information, temperature, weather icons, and condition descriptions for cities worldwide.
+PyQtWeather is a desktop weather application built with Python and PyQt5 that allows users to quickly retrieve and view current weather conditions for any city. The application features a simple and intuitive interface where users can enter a city name and instantly receive real-time temperature data, weather condition icons, and descriptive weather information. By integrating a weather API, the project demonstrates GUI development, API communication, data processing, and user-friendly desktop application design in Python.
